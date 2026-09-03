@@ -1,3 +1,4 @@
+$ curl -s https://api.github.com/repos/saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1356174533,
   "node_id": "R_kgDOUNWUxQ",
@@ -67,13 +68,13 @@
   "deployments_url": "https://api.github.com/repos/saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-09-03T16:12:06Z",
   "updated_at": "2026-09-03T16:12:06Z",
-  "pushed_at": "2026-09-03T17:45:41Z",
+  "pushed_at": "2026-09-03T18:36:23Z",
   "git_url": "git://github.com/saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub.git",
   "svn_url": "https://github.com/saqibkhan910-ops/mcino-Introduction-to-Git-and-GitHub",
   "homepage": null,
-  "size": 18,
+  "size": 23,
   "stargazers_count": 0,
   "watchers_count": 0,
   "language": null,
